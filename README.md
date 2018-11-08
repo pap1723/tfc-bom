@@ -13,7 +13,7 @@ The program is a helper application for a Minecraft modpack. The modpack is call
 
 ### Improvements Needed
 * All code requires refactoring and clean-up
-* Database needs to be restructured. It was designed as a relational database, but it was before I learned the proper way to setup and design a proper database.
+* Database needs to be restructured. It was designed as a relational database, but it was before I learned the proper way to setup and design a database relationship.
 
 ### Why Was this Created?
 This was my final project for my Web Development class in 2018. We were given a lot of leeway in the project we would choose. The only requirement is that the program should be written with JavaScript and have a client-side and server-side functionality. I elected to learn ReactJS and NodeJS in order to complete this project.
